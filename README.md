@@ -1,4 +1,4 @@
-# 📧 Smart Email Classification Dashboard
+# 📧 Email Classification Web Application
 
 A full-stack email classification system that automatically categorizes Gmail emails into **Interview**, **Online Job**, and **Social Ads** using an LLM, and displays them in a clean, interactive dashboard.
 
